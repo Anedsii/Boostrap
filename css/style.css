@@ -1,0 +1,15 @@
+.blue {
+  color: blue; }
+
+section .carusel-ancho {
+  height: 60vh;
+  object-fit: cover; }
+
+section .margen {
+  padding: 70px;
+  object-fit: cover; }
+
+section .tituloprod {
+  margin: 40px;
+  font-size: 38px;
+  text-align: center; }

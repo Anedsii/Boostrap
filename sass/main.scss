@@ -1,0 +1,20 @@
+   @import "../css/Headers/variables";
+   .blue {
+       color: $color;
+   }
+   
+   section {
+       .carusel-ancho {
+           height: 60vh;
+           object-fit: cover;
+       }
+       .margen {
+           padding: 70px;
+           object-fit: cover;
+       }
+       .tituloprod {
+           margin: 40px;
+           font-size: $titulo_tamaño;
+           text-align: center;
+       }
+   }
